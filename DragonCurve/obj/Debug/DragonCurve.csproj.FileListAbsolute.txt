@@ -1,0 +1,10 @@
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\bin\Debug\DragonCurve.exe.config
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\bin\Debug\DragonCurve.exe
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\bin\Debug\DragonCurve.pdb
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.Form1.resources
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.OpenObject.resources
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.Properties.Resources.resources
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.csproj.GenerateResource.Cache
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.exe
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.pdb
+C:\Users\ROG\Documents\Visual Studio 2015\Projects\DragonCurve\DragonCurve\obj\Debug\DragonCurve.csprojResolveAssemblyReference.cache
